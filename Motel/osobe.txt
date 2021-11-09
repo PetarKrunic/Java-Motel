@@ -1,0 +1,7 @@
+Korisnik|false|Adminko|Admini?|cuj admin da ima licnu kartu|admin|admin
+Menadzer|true|adfs|dfsd|adfs|dsfd|dsf
+Menadzer|false|Sinisa|Bozic|123456789|bozic|1234
+Recepcioner|false|Marko|Markovic|987654321|marko|4321
+Recepcioner|false|Milenko|Milic|564782324|mile|mile
+Recepcioner|false|Savo|Oroz|00000030333|savo|savo
+Recepcioner|false|Ilija|Ilic|44443221111|ilija|ilija

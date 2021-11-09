@@ -1,0 +1,5 @@
+false|soba|4
+true|soba|3
+false|jednokrevetna|1
+false|dvokrevetna|2
+false|soba|3
